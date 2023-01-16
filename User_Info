@@ -2,5 +2,7 @@ class User_Info{
 
 List<String> list=new ArrayList<>();
 List<String> getList(){
+list.add(1);
+list.add(12);
 return list;
 }
